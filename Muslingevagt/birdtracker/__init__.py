@@ -1,0 +1,1 @@
+# BirdTracker node for Muslingevagt

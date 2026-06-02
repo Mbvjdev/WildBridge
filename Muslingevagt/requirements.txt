@@ -1,0 +1,11 @@
+# Muslingevagt + BirdTracker — WildBridge Integration
+# Dependencies for ROS 2 Humble on RPi 5 (Ubuntu 22.04 ARM64)
+
+# ROS 2
+rclpy
+geographic-msgs
+sensor-msgs
+std-msgs
+
+# Python
+numpy
